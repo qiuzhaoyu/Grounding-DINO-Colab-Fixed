@@ -6,7 +6,7 @@ A working Grounding DINO Colab notebook with fixed installation dependencies and
 
 点击下方图标即可在 Google Colab 中直接打开并运行该实例：
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15hMm1fA5Dyo6mRmQmFwpYUN9-DI6ALxz?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/drive/15hMm1fA5Dyo6mRmQmFwpYUN9-DI6ALxz?usp=sharing)
 
 ## 🛠️ 项目说明
 
